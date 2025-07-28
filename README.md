@@ -12,4 +12,4 @@ This is a small personal project implementing a basic password manager in Python
 ## Usage
 
 ```bash
-python password_manager.py
+python pw_manager.py
